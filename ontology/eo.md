@@ -8,7 +8,7 @@ build:
 contact:
   email: jaiswalp@science.oregonstate.edu
   label: Pankaj Jaiswal
-description: A structured, controlled vocabulary which describes the treatments, growing conditions, and/or study types used in plant biology experiments.
+description:A plant treatment and/or study type applied to a whole plant, a plant structure, and/or a plant population as part of an experiment to evaluate the plant response. 
 domain: environment
 homepage: http://planteome.org/
 page: http://browser.planteome.org/amigo/term/EO:0007359
@@ -30,4 +30,4 @@ A structured, controlled vocabulary for the representation of plant environmenta
 
 <img alt="Planteome logo" src="http://planteome.org/sites/default/files/garland_logo.PNG"/>
 
-Note this ontology is being replaced by [PECO](peco.html)
+Note: This ontology has been replaced by [PECO](peco.html)
